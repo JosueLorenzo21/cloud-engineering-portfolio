@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Azure Image Analyzer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Azure Image Analyzer</h1>
+    <p class="subtitle">Upload an image and get an AI-generated description.</p>
+
+    <section class="card">
+      <input type="file" id="imageInput" accept="image/*" />
+      <button id="analyzeButton">Upload and Analyze</button>
+      <p id="status"></p>
+    </section>
+
+    <section class="card preview-section">
+      <h2>Image Preview</h2>
+      <img id="preview" alt="Selected preview" />
+    </section>
+
+    <section class="card result-section">
+      <h2>Analysis Result</h2>
+      <p><strong>Caption:</strong> <span id="caption">-</span></p>
+      <p><strong>Confidence:</strong> <span id="confidence">-</span></p>
+
+      <div>
+        <strong>Tags:</strong>
+        <ul id="tagsList"></ul>
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
