@@ -1,3 +1,13 @@
+This repository contains hands-on Azure cloud projects focused on infrastructure, serverless computing, and application architecture.
+
+
+
+The goal is to demonstrate practical cloud engineering skills through real deployments.
+
+
+
+
+
 Projects
 
 
@@ -69,6 +79,4 @@ App Service deployment
 Authentication using Microsoft Entra ID
 
 Web Chat testing
-
-
 
