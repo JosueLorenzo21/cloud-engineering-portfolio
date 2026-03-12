@@ -1,74 +1,74 @@
-# \# Cloud Engineering Portfolio
+Projects
 
-# 
 
-# This repository contains hands-on cloud projects focused on Azure infrastructure, automation, and architecture design.
 
-# 
+01 - Azure Static Website Hosting
 
-# The goal is to demonstrate practical cloud engineering skills.
 
-# 
 
-# ---
+Static website hosted in Azure Storage and delivered globally using Azure Front Door CDN.
 
-# 
 
-# \# Projects
 
-# 
+Concepts demonstrated:
 
-# \## 01 - Azure Static Website Hosting
 
-# 
 
-# Static website hosted in Azure Storage and delivered globally using Azure Front Door CDN.
+Cloud architecture
 
-# 
+CDN configuration
 
-# Concepts demonstrated:
+Azure CLI automation
 
-# 
+Infrastructure deployment
 
-# \- Cloud architecture
 
-# \- CDN configuration
 
-# \- Azure CLI automation
+02 - Azure Image Analyzer (AI Vision)
 
-# \- Infrastructure deployment
 
-# 
 
-# ---
+Serverless application that analyzes uploaded images using Azure AI Vision.
 
-# 
 
-# \## 02 - Azure Image Analyzer (Serverless + AI)
 
-# 
+Concepts demonstrated:
 
-# Serverless application that allows users to upload an image and receive an AI-generated description.
 
-# 
 
-# Images are uploaded directly to Azure Blob Storage using secure SAS URLs, then analyzed using Azure AI Vision.
+Serverless architecture
 
-# 
+Azure Functions
 
-# Concepts demonstrated:
+Blob Storage
 
-# 
+Azure AI Vision integration
 
-# \- Serverless architecture with Azure Functions
+Secure upload with SAS tokens
 
-# \- Secure uploads using SAS tokens
 
-# \- Object storage with Azure Blob Storage
 
-# \- AI integration with Azure AI Vision
+03 - Azure Support FAQ Chatbot
 
-# \- Frontend + API interaction
 
-# \- Azure CLI configuration and deployment
+
+A support chatbot deployed on Azure App Service and connected through Azure Bot Service.
+
+
+
+Concepts demonstrated:
+
+
+
+Conversational application architecture
+
+Azure Bot Service integration
+
+App Service deployment
+
+Authentication using Microsoft Entra ID
+
+Web Chat testing
+
+
 
