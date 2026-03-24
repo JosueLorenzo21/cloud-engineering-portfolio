@@ -80,3 +80,31 @@ Authentication using Microsoft Entra ID
 
 Web Chat testing
 
+
+
+04 - Azure Logic App Alert Notification
+
+
+
+An automated workflow that processes incoming alerts and sends email notifications based on severity.
+
+
+
+Concepts demonstrated:
+
+
+
+Workflow automation
+
+HTTP-triggered integrations
+
+JSON parsing and processing
+
+Conditional logic
+
+Azure Logic Apps
+
+Monitoring and debugging with run history
+
+
+
