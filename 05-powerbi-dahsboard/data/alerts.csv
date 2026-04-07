@@ -1,0 +1,21 @@
+[200~AlertID,Date,System,Severity,Status,ResponseTimeMinutes,Region,Owner,Source
+1001,2026-04-01,website,high,resolved,5,US,Ana,Logic App
+1002,2026-04-01,api,medium,open,15,EU,Carlos,Manual
+1003,2026-04-02,database,high,resolved,8,US,Marcos,Logic App
+1004,2026-04-02,bot,low,closed,22,LATAM,Sofia,Bot
+1005,2026-04-03,website,high,open,12,US,Ana,Manual
+1006,2026-04-03,api,medium,resolved,9,EU,Carlos,Logic App
+1007,2026-04-04,database,high,resolved,6,US,Marcos,Logic App
+1008,2026-04-04,website,low,closed,18,LATAM,Sofia,Manual
+1009,2026-04-05,bot,medium,open,20,US,Ana,Bot
+1010,2026-04-05,api,high,resolved,7,EU,Carlos,Logic App
+1011,2026-04-06,website,medium,resolved,11,US,Ana,Manual
+1012,2026-04-06,database,high,open,14,EU,Marcos,Logic App
+1013,2026-04-07,bot,low,closed,25,LATAM,Sofia,Bot
+1014,2026-04-07,website,high,resolved,4,US,Ana,Logic App
+1015,2026-04-08,api,medium,resolved,10,EU,Carlos,Manual
+1016,2026-04-08,database,high,resolved,5,US,Marcos,Logic App
+1017,2026-04-09,website,medium,open,17,LATAM,Sofia,Manual
+1018,2026-04-09,bot,high,resolved,8,US,Ana,Bot
+1019,2026-04-10,api,low,closed,19,EU,Carlos,Manual
+1020,2026-04-10,database,high,open,13,US,Marcos,Logic App

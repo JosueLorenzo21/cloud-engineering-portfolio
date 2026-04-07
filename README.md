@@ -108,3 +108,27 @@ Monitoring and debugging with run history
 
 
 
+05 - Azure + Power BI Dashboard
+
+
+
+A cloud monitoring dashboard built with Power BI and Azure Blob Storage to visualize system alerts and generate insights.
+
+
+
+Concepts demonstrated:
+
+
+
+Data visualization
+
+Data transformation (Power Query)
+
+DAX calculations
+
+Cloud data integration
+
+Business intelligence fundamentals
+
+
+
