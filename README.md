@@ -12,7 +12,7 @@ Projects
 
 
 
-01 - Azure Static Website Hosting
+### 01 - Azure Static Website Hosting
 
 
 
@@ -34,7 +34,7 @@ Infrastructure deployment
 
 
 
-02 - Azure Image Analyzer (AI Vision)
+### 02 - Azure Image Analyzer (AI Vision)
 
 
 
@@ -58,7 +58,7 @@ Secure upload with SAS tokens
 
 
 
-03 - Azure Support FAQ Chatbot
+### 03 - Azure Support FAQ Chatbot
 
 
 
@@ -82,7 +82,7 @@ Web Chat testing
 
 
 
-04 - Azure Logic App Alert Notification
+### 04 - Azure Logic App Alert Notification
 
 
 
@@ -108,7 +108,7 @@ Monitoring and debugging with run history
 
 
 
-05 - Azure + Power BI Dashboard
+### 05 - Azure + Power BI Dashboard
 
 
 
@@ -131,4 +131,15 @@ Cloud data integration
 Business intelligence fundamentals
 
 
+### 06 - Serverless Order Processing System
+
+A serverless, event-driven application built with Azure Functions, Queue Storage, and Table Storage to process orders asynchronously.
+
+Concepts demonstrated:
+
+Serverless architecture
+Event-driven design
+Queue-based processing
+Microservices patterns
+CI/CD with GitHub Actions
 
