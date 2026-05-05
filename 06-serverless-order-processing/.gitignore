@@ -1,0 +1,11 @@
+
+node_modules/
+
+local.settings.json
+
+.env
+
+deploy.zip
+
+*.log
+
